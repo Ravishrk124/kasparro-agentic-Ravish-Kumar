@@ -1,0 +1,28 @@
+{
+    "name": "kasparro-ai-agentic-content-generation-system-ravish-kumar",
+    "version": "1.0.0",
+    "description": "Multi-Agent Content Generation System - Kasparro AI Engineering Challenge",
+    "type": "module",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+        "test:coverage": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage"
+    },
+    "keywords": [
+        "multi-agent",
+        "agentic-ai",
+        "content-generation",
+        "automation",
+        "orchestration"
+    ],
+    "author": "Ravish Kumar",
+    "license": "MIT",
+    "dependencies": {
+        "openai": "^4.20.1",
+        "dotenv": "^16.3.1"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
