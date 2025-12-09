@@ -344,7 +344,7 @@ OUTPUT_DIR=./output
 
 **Ravish Kumar**  
 Full-Stack + AI Developer  
-[LinkedIn](https://linkedin.com/in/ravish-kumar) | [GitHub](https://github.com/Ravishrk124)
+[LinkedIn](https://www.linkedin.com/in/ravish-kumar-08ba0524b/) | [GitHub](https://github.com/Ravishrk124)
 
 ---
 
